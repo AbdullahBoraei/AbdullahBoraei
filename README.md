@@ -10,11 +10,10 @@
 
 ### 🚀 About Me
 
-Software engineer who loves clean APIs and turning daily tasks into mini projects.
+Software engineer focus on low latency, data-driven solutions.
 
-🔭 &nbsp;I'm currently working on **a unified personal fitness-data pipeline**  
+🔭 &nbsp;I'm currently working on **a management platform for education and training centres.**  
 🌱 &nbsp;I'm currently learning **how to parse GPX (XML-based) and/or FIT (binary) file formats manually.**  
-😄 &nbsp;Pronouns: **he/him**  
 ⚡ &nbsp;Fun fact: **I have solved multiple bugs in my dreams and woken up in the middle of the night to update my code.**
 
 ### 🛠️ Tech Stack
