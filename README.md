@@ -1,6 +1,6 @@
 ### About Me
 
-Software engineer focus on low latency, data-driven solutions.
+Software engineer focused on low latency, data-driven solutions. Currently building a management platform for training and education centers.
 
 ### Connect With Me
 
